@@ -2,7 +2,7 @@
 
 Here's the Live Link : https://code-review-by-us.netlify.app/
 
-🚀 AI Code Reviewer
+# 🚀 AI Code Reviewer
 
 An AI-powered Code Review Web Application that analyzes your JavaScript code and provides professional feedback, improvements, and refactored versions using Google Gemini AI.
 
@@ -14,7 +14,7 @@ Built with a modern full-stack setup using React (Vite) for the frontend and Nod
 👉 https://code-review-by-us.netlify.app/
 
 🔗 Backend API:
-👉 Add your deployed backend URL here
+👉 https://code-reviewer-alpha-orcin.vercel.app/
 
 🧠 Features
 
@@ -69,8 +69,8 @@ AI-Code-Reviewer/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/anasamin100100-eng/Code-Reviewer.git
+cd Code-Reviewer
 
 🔹 Backend Setup
 cd backend
@@ -198,3 +198,4 @@ If you like this project:
 🧠 Contribute ideas
 
 🐛 Report issues
+
